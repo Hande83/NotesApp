@@ -1,0 +1,1 @@
+To run NotesApp use command npm run dev
